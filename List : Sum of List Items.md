@@ -10,16 +10,10 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 ```
-lst1=[1,2,-8]
-sum=0
-for x in lst1:
-    sum+=x
-print(sum)
+items=[153,147,124,102]
+print(sum(items))
 ```
-
 ## Output
-<img width="848" height="191" alt="image" src="https://github.com/user-attachments/assets/7e9b0aa0-2c61-4da9-b2c5-15caf527feee" />
-
-
+![Screenshot 2025-04-29 120233](https://github.com/user-attachments/assets/c459f7ba-80e3-4ba0-8dfc-fe6e998a5a2b)
 ## Result
-The Python program was successfully executed to calculate the sum of all elements in a list.
+Thus, the python program was executed successfully.
